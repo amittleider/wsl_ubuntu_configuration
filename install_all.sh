@@ -11,3 +11,8 @@ source installations/install_dotnet_core.sh
 source installations/install_python3.sh
 source installations/install_docker.sh
 source installations/install_docker-compose.sh
+source installations/install_base_python_libs.sh
+source initializations/initialize_venv.sh
+source installations/install_common_pip_libs.sh
+source installations/install_talib.sh
+source installations/install_glpk.sh
