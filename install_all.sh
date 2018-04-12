@@ -16,3 +16,5 @@ source initializations/initialize_venv.sh
 source installations/install_common_pip_libs.sh
 source installations/install_talib.sh
 source installations/install_glpk.sh
+source installations/install_gcloud.sh
+source installations/install_kubectl.sh
