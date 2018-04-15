@@ -18,3 +18,5 @@ source installations/install_talib.sh
 source installations/install_glpk.sh
 source installations/install_gcloud.sh
 source installations/install_kubectl.sh
+source installations/install_helm.sh
+source installations/install_azure_cli.sh
